@@ -76,8 +76,8 @@ Una vez ya hecho los pasos anteriores puede observar en el archivo con Nombre Pr
 
 ## Contactos
 
-| Nombre | Apellido | Correo               | Cédula   | Universidad     | Rol |
-|--------|----------|----------------------|----------|-----------------|-----|
-| Juan Jose  | Naranjo Velasquez    | jjose.naranjo@udea.edu.co      | No informa | Universidad de Antioquia   | Estudiante |
-| Kenneth David    | Leonel Triana    | kenneth.leonel@udea.edu.co        | 1192817456 | Universidad de Antioquia   | Estudiante |
-| Alejandro    |     | @udea.edu.co        | No informa | Universidad de Antioquia   | Asesor |
+| Nombre | Apellido | Correo               | Universidad     | Rol |
+|--------|----------|----------------------|-----------------|-----|
+| Juan Jose  | Naranjo Velasquez    | jjose.naranjo@udea.edu.co      | Universidad de Antioquia   | Estudiante |
+| Kenneth David    | Leonel Triana    | kenneth.leonel@udea.edu.co        | Universidad de Antioquia   | Estudiante |
+| Alejandro    | Ruiz Luna    | alejandro.ruizl@udea.edu.co         | Universidad de Antioquia   | Docente |
